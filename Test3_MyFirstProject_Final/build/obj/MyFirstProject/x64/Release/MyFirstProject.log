@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\App.cpp(26,1): message : Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyFirstProject.vcxproj -> C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\MyFirstProject.exe
