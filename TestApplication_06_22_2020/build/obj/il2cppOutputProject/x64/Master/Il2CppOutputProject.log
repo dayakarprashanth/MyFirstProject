@@ -1,0 +1,382 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\cl.exe
+  
+  	Output directory: C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\build\bin\x64\Master
+  	Cache directory: C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\build\obj\il2cppOutputProject\x64\Master
+  Generics.cpp
+  mscorlib7.cpp
+  mscorlib.cpp
+  mscorlib11.cpp
+  UnityEngine.UI1.cpp
+  GenericMethods.cpp
+  Il2CppComCallableWrappers12.cpp
+  Il2CppComCallableWrappers15.cpp
+  mscorlib1.cpp
+  UnityEngine.UI2.cpp
+  mscorlib13.cpp
+  mscorlib8.cpp
+  Generics60.cpp
+  mscorlib12.cpp
+  Generics24.cpp
+  Generics10.cpp
+  GenericMethods4.cpp
+  Generics63.cpp
+  mscorlib9.cpp
+  Generics31.cpp
+  Generics54.cpp
+  Il2CppComCallableWrappers21.cpp
+  UnresolvedVirtualCallStubs.cpp
+  Generics42.cpp
+  Generics53.cpp
+  Il2CppComCallableWrappers26.cpp
+  Il2CppComCallableWrappers10.cpp
+  Generics12.cpp
+  UnityEngine.CoreModule1.cpp
+  UnityEngine.CoreModule.cpp
+  Generics43.cpp
+  System.cpp
+  Generics55.cpp
+  Il2CppComCallableWrappers30.cpp
+  Il2CppComCallableWrappers.cpp
+  Il2CppComCallableWrappers25.cpp
+  Il2CppComCallableWrappers29.cpp
+  Il2CppComCallableWrappers24.cpp
+  Il2CppComCallableWrappers27.cpp
+  Generics30.cpp
+  mscorlib14.cpp
+  Generics29.cpp
+  Il2CppComCallableWrappers22.cpp
+  Generics8.cpp
+  mscorlib5.cpp
+  Unity.TextMeshPro3.cpp
+  Il2CppComCallableWrappers28.cpp
+  System1.cpp
+  Il2CppComCallableWrappers19.cpp
+  Il2CppComCallableWrappers31.cpp
+  Generics25.cpp
+  Il2CppComCallableWrappers32.cpp
+  Il2CppComCallableWrappers18.cpp
+  Generics64.cpp
+  Generics4.cpp
+  Il2CppComCallableWrappers20.cpp
+  Il2CppComCallableWrappers35.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.cpp
+  Il2CppComCallableWrappers33.cpp
+  mscorlib15.cpp
+  Il2CppComCallableWrappers14.cpp
+  Generics41.cpp
+  Generics23.cpp
+  Generics51.cpp
+  Il2CppComCallableWrappers16.cpp
+  Il2CppComCallableWrappers17.cpp
+  Generics62.cpp
+  Generics65.cpp
+  Il2CppComCallableWrappers5.cpp
+  Il2CppComCallableWrappers6.cpp
+  Generics32.cpp
+  Il2CppComCallableWrappers13.cpp
+  Il2CppComCallableWrappers9.cpp
+  Il2CppComCallableWrappers34.cpp
+  Generics59.cpp
+  Generics45.cpp
+  Il2CppComCallableWrappers4.cpp
+  Generics47.cpp
+  Generics44.cpp
+  Il2CppComCallableWrappers23.cpp
+  Generics57.cpp
+  Generics68.cpp
+  Generics38.cpp
+  Generics40.cpp
+  Generics67.cpp
+  Microsoft.MixedReality.Toolkit.Gltf.cpp
+  Generics56.cpp
+  Generics36.cpp
+  Generics15.cpp
+  Generics49.cpp
+  Generics48.cpp
+  Generics58.cpp
+  Generics17.cpp
+  Generics35.cpp
+  Il2CppComCallableWrappers7.cpp
+  Generics16.cpp
+  Generics50.cpp
+  UnityEngine.CoreModule2.cpp
+  Il2CppComCallableWrappers3.cpp
+  Generics14.cpp
+  Generics21.cpp
+  Generics46.cpp
+  Generics66.cpp
+  Generics37.cpp
+  Generics13.cpp
+  GenericMethods3.cpp
+  Generics22.cpp
+  Il2CppProjectedComCallableWrapperMethods3.cpp
+  Il2CppProjectedComCallableWrapperMethods2.cpp
+  Il2CppComCallableWrappers8.cpp
+  Il2CppProjectedComCallableWrapperMethods.cpp
+  Generics19.cpp
+  Il2CppProjectedComCallableWrapperMethods1.cpp
+  Generics18.cpp
+  Il2CppProjectedComCallableWrapperMethods4.cpp
+  Generics28.cpp
+  Generics27.cpp
+  Generics20.cpp
+  Generics34.cpp
+  Generics5.cpp
+  Generics7.cpp
+  Generics26.cpp
+  Generics6.cpp
+  GenericMethods12.cpp
+  Microsoft.MixedReality.Toolkit.SDK_CodeGen.c
+  Generics33.cpp
+  Generics39.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation.cpp
+  I18N.Rare.cpp
+  Microsoft.MixedReality.Toolkit_CodeGen.c
+  Il2CppProjectedComCallableWrapperMethods5.cpp
+  Il2CppGenericComDefinitions.cpp
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem.cpp
+  mscorlib18.cpp
+  UnityEngine.VRModule.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.cpp
+  Il2CppCompilerCalculateTypeValuesTable.cpp
+  UnityEngine.IMGUIModule.cpp
+  WindowsRuntimeMetadata.cpp
+  Il2CppComCallableWrappers36.cpp
+  Microsoft.MixedReality.Toolkit.SDK7.cpp
+  Unity.XR.WindowsMixedReality.cpp
+  System.Runtime.WindowsRuntime.cpp
+  UnityEngine.CoreModule_CodeGen.c
+  UnityEngine.UI3.cpp
+  Generics69.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService.cpp
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem.cpp
+  I18N.CJK.cpp
+  I18N.West.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation.cpp
+  I18N.cpp
+  I18N.Rare1.cpp
+  UnityEngine.AndroidJNIModule.cpp
+  UnityEngine.XRModule.cpp
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality.cpp
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics.cpp
+  Unity.TextMeshPro_CodeGen.c
+  UnityEngine.UI_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.cpp
+  UnityEngine.UnityWebRequestModule.cpp
+  char-conversions.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem1.cpp
+  Microsoft.MixedReality.Toolkit5.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared.cpp
+  Microsoft.MixedReality.Toolkit.Examples_CodeGen.c
+  I18N.Other.cpp
+  System2.cpp
+  UnityEngine.TextCoreModule.cpp
+  Microsoft.MixedReality.Toolkit.Async.cpp
+  UnityEngine.AnimationModule.cpp
+  UnityEngine.TerrainModule.cpp
+  UnityEngine.UIElementsModule1.cpp
+  I18N.MidEast.cpp
+  UnityEngine.PhysicsModule.cpp
+  System_CodeGen.c
+  UnityEngine.TextRenderingModule.cpp
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem.cpp
+  UnityEngine.UIModule.cpp
+  System.Numerics.cpp
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.cpp
+  UnityEngine.UIElementsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Examples2.cpp
+  Microsoft.MixedReality.Toolkit.Demos.Gltf.cpp
+  UnityEngine.SpatialTracking.cpp
+  Unity.XR.ARSubsystems.cpp
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem.cpp
+  UnityEngine.Physics2DModule.cpp
+  Unity.XR.Management.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSystem_CodeGen.c
+  UnityEngine.ParticleSystemModule.cpp
+  UnityEngine.SharedInternalsModule.cpp
+  UnityEngine.InputLegacyModule.cpp
+  UnityEngine.SubsystemsModule.cpp
+  WindowsRuntimeMetadata_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking.cpp
+  UnityEngine.AudioModule.cpp
+  Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.cpp
+  Mono.Security.cpp
+  UnityEngine.VRModule_CodeGen.c
+  Unity.XR.InteractionSubsystems.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputSimulation_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.BoundarySystem.cpp
+  Unity.XR.WindowsMixedReality_CodeGen.c
+  UnityEngine.TilemapModule.cpp
+  deflate.c
+  UnityEngine.IMGUIModule_CodeGen.c
+  UnityEngine.VideoModule.cpp
+  System.Runtime.WindowsRuntime_CodeGen.c
+  UnityEngine.UnityAnalyticsModule.cpp
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality_CodeGen.c
+  I18N.Rare_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Gltf_CodeGen.c
+  UnityEngine.AndroidJNIModule_CodeGen.c
+  I18N.CJK_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SceneSystem_CodeGen.c
+  UnityEngine.VFXModule.cpp
+  inflate.c
+  System.Configuration.cpp
+  UnityEngine.InputModule.cpp
+  trees.c
+  Microsoft.MixedReality.Toolkit.Extensions.SceneTransitionService_CodeGen.c
+  UnityEngine.PhysicsModule_CodeGen.c
+  UnityEngine.JSONSerializeModule.cpp
+  Microsoft.MixedReality.Toolkit.Services.InputAnimation_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Tools.Runtime.cpp
+  Unity.Subsystem.Registration.cpp
+  Microsoft.MixedReality.Toolkit.Async_CodeGen.c
+  UnityEngine.AssetBundleModule.cpp
+  UnityEngine.XRModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.DiagnosticsSystem_CodeGen.c
+  UnityEngine.UnityWebRequestModule_CodeGen.c
+  UnityEngine.TextCoreModule_CodeGen.c
+  xamarin_getifaddrs.c
+  System.Core.cpp
+  System.Core_CodeGen.c
+  I18N_CodeGen.c
+  UnityEngine.AnimationModule_CodeGen.c
+  UnityEngine.UIModule_CodeGen.c
+  UnityEngine.ARModule.cpp
+  System.Runtime.WindowsRuntime.UI.Xaml.cpp
+  il2cpp-api.cpp
+  I18N.West_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.InspectorFields.cpp
+  Unity.XR.ARSubsystems_CodeGen.c
+  infback.c
+  gzread.c
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\IL2CPP\external\zlib\gzread.c(319): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\IL2CPP\external\zlib\gzread.c(400): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\IL2CPP\external\zlib\gzread.c(472): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  UnityEngine.AIModule.cpp
+  I18N.Other_CodeGen.c
+  UnityEngine.DirectorModule.cpp
+  UnityEngine.ParticleSystemModule_CodeGen.c
+  gzwrite.c
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\IL2CPP\external\zlib\gzwrite.c(212): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\IL2CPP\external\zlib\gzwrite.c(232): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\IL2CPP\external\zlib\gzwrite.c(371): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput_CodeGen.c
+  UnityEngine.SharedInternalsModule_CodeGen.c
+  UnityEngine.TextRenderingModule_CodeGen.c
+  Unity.XR.Management_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Extensions.HandPhysics_CodeGen.c
+  gzlib.c
+  UnityEngine.AudioModule_CodeGen.c
+  UnityEngine.TerrainModule_CodeGen.c
+  UnityEngine.Physics2DModule_CodeGen.c
+  UnityEngine.SubsystemsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Providers.XRSDK.WindowsMixedReality_CodeGen.c
+  crc32.c
+  inftrees.c
+  inffast.c
+  Il2CppCodeRegistration.cpp
+  UnityEngine.InputLegacyModule_CodeGen.c
+  UnityEngine.SpatialTracking_CodeGen.c
+  I18N.MidEast_CodeGen.c
+  Unity.XR.InteractionSubsystems_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem_CodeGen.c
+  System.Numerics_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Extensions.Tracking_CodeGen.c
+  UnityEngine.ImageConversionModule.cpp
+  UnityEngine.TilemapModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.TeleportSystem_CodeGen.c
+  UnityEngine.VideoModule_CodeGen.c
+  zutil.c
+  Microsoft.MixedReality.Toolkit.Demos.UX.Interactables_CodeGen.c
+  UnityEngine.UnityAnalyticsModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.CameraSystem_CodeGen.c
+  System.Configuration_CodeGen.c
+  System.Xml.cpp
+  Mono.Security_CodeGen.c
+  UnityEngine.GridModule.cpp
+  adler32.c
+  UnityEngine.InputModule_CodeGen.c
+  UnityEngine.VFXModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Demos.Gltf_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Services.BoundarySystem_CodeGen.c
+  uncompr.c
+  compress.c
+  Il2CppReversePInvokeWrapperTable.cpp
+  Lump_libil2cpp_icalls.cpp
+  System.Runtime.WindowsRuntime.UI.Xaml_CodeGen.c
+  UnityEngine.JSONSerializeModule_CodeGen.c
+  UnityEngine.AIModule_CodeGen.c
+  UnityEngine.ARModule_CodeGen.c
+  UnityAdsStubs.cpp
+  Microsoft.MixedReality.Toolkit.Demos.InspectorFields_CodeGen.c
+  UnityEngine.DirectorModule_CodeGen.c
+  Microsoft.MixedReality.Toolkit.Tools.Runtime_CodeGen.c
+  krait_signal_handler.c
+  UnityEngine.AssetBundleModule_CodeGen.c
+  Lump_libil2cpp_utils.cpp
+  UnityEngine.ImageConversionModule_CodeGen.c
+  Lump_libil2cpp_metadata.cpp
+  Il2CppMetadataRegistration.c
+  Unity.Subsystem.Registration_CodeGen.c
+  gc.c
+  System.Numerics.Vectors.cpp
+  System.ObjectModel.cpp
+  System.Runtime.cpp
+  UnityEngine.cpp
+  System.Runtime.InteropServices.WindowsRuntime.cpp
+  UnityEngine.GridModule_CodeGen.c
+  System.Xml_CodeGen.c
+  il2cpp-benchmark-support.cpp
+  gzclose.c
+  System.Runtime.InteropServices.WindowsRuntime_CodeGen.c
+  Lump_libil2cpp_os.cpp
+  System.Numerics.Vectors_CodeGen.c
+  Lump_libil2cpp_vm-utils.cpp
+  System.Runtime_CodeGen.c
+  System.ObjectModel_CodeGen.c
+  Lump_libil2cpp_mono.cpp
+  UnityEngine_CodeGen.c
+  Lump_libil2cpp_gc.cpp
+  Lump_libil2cpp_mono-runtime.cpp
+  Lump_libil2cpp_debugger.cpp
+  il2cpp-runtime-stats.cpp
+  Lump_libil2cpp_codegen.cpp
+  Lump_libil2cpp_vm.cpp
+  ObjectFiles: 396 of which compiled: 336
+  	Time Compile: 23525 milliseconds mscorlib5.cpp
+  	Time Compile: 16477 milliseconds Unity.TextMeshPro3.cpp
+  	Time Compile: 11942 milliseconds System.cpp
+  	Time Compile: 10919 milliseconds Lump_libil2cpp_os.cpp
+  	Time Compile: 10913 milliseconds Lump_libil2cpp_vm.cpp
+  	Time Compile: 8944 milliseconds Il2CppComCallableWrappers20.cpp
+  	Time Compile: 8896 milliseconds Il2CppComCallableWrappers17.cpp
+  	Time Compile: 8844 milliseconds Il2CppComCallableWrappers33.cpp
+  	Time Compile: 8660 milliseconds Il2CppComCallableWrappers27.cpp
+  	Time Compile: 8650 milliseconds Il2CppComCallableWrappers32.cpp
+  Total compilation time: 113047 milliseconds.
+  il2cpp.exe didn't catch exception: Unity.IL2CPP.Building.BuilderFailedException: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\link.exe /out:"C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\build\obj\il2cppOutputProject\x64\Master\linkresult_4A4F37D3B04A7075835E5740D6987F1B\GameAssembly.dll" /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /NXCOMPAT /DYNAMICBASE /NOLOGO /TLBID:1 /OPT:REF /OPT:ICF /HIGHENTROPYVA /DLL /IGNORE:4104 /NODEFAULTLIB:uuid.lib "Shcore.lib" "WindowsApp.lib" "Crypt32.lib" "Iphlpapi.lib" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\ucrt\x64" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\lib\x64\store" /APPCONTAINER /SUBSYSTEM:WINDOWS /NODEFAULTLIB:ole32.lib /NODEFAULTLIB:kernel32.lib @"C:\Users\rdayakar\AppData\Local\Temp\tmpA7F8.tmp"
+  
+4C5509339516D2297830455AAA086507.obj : fatal error LNK1136: invalid or corrupt file
+  
+     at Unity.IL2CPP.Building.CppProgramBuilder.PostprocessObjectFiles(HashSet`1 objectFiles, CppToolChainContext toolChainContext)
+     at Unity.IL2CPP.Building.CppProgramBuilder.Build(IBuildStatistics& statistics)
+     at il2cpp.Program.DoRun(String[] args, List`1 foundAssemblies)
+     at il2cpp.Program.Run(String[] args, Boolean setInvariantCulture)
+     at il2cpp.Program.Main(String[] args)
+  
+  Unhandled Exception: Unity.IL2CPP.Building.BuilderFailedException: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\bin\HostX64\x64\link.exe /out:"C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\build\obj\il2cppOutputProject\x64\Master\linkresult_4A4F37D3B04A7075835E5740D6987F1B\GameAssembly.dll" /DEBUG /INCREMENTAL:NO /LARGEADDRESSAWARE /NXCOMPAT /DYNAMICBASE /NOLOGO /TLBID:1 /OPT:REF /OPT:ICF /HIGHENTROPYVA /DLL /IGNORE:4104 /NODEFAULTLIB:uuid.lib "Shcore.lib" "WindowsApp.lib" "Crypt32.lib" "Iphlpapi.lib" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x64" /LIBPATH:"C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\ucrt\x64" /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.26.28801\lib\x64\store" /APPCONTAINER /SUBSYSTEM:WINDOWS /NODEFAULTLIB:ole32.lib /NODEFAULTLIB:kernel32.lib @"C:\Users\rdayakar\AppData\Local\Temp\tmpA7F8.tmp"
+  
+4C5509339516D2297830455AAA086507.obj : fatal error LNK1136: invalid or corrupt file
+  
+     at Unity.IL2CPP.Building.CppProgramBuilder.PostprocessObjectFiles(HashSet`1 objectFiles, CppToolChainContext toolChainContext)
+     at Unity.IL2CPP.Building.CppProgramBuilder.Build(IBuildStatistics& statistics)
+     at il2cpp.Program.DoRun(String[] args, List`1 foundAssemblies)
+     at il2cpp.Program.Run(String[] args, Boolean setInvariantCulture)
+     at il2cpp.Program.Main(String[] args)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: The command "chcp 65001 >NUL && "C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\\IL2CPP\build\deploy\net471\il2cpp.exe" --libil2cpp-static --compile-cpp -architecture=x64 -configuration=Release -platform=winrt -outputpath="C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\\build\bin\x64\Master\GameAssembly.dll" --data-folder="C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\\build\bin\x64\Master\\" -cachedirectory="C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\\build\obj\il2cppOutputProject\x64\Master\\" -generatedcppdir="C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\\Source"  --profiler-report --additional-defines=WINDOWS_UWP --additional-defines=UNITY_UWP --additional-defines=UNITY_WSA_10_0 --additional-defines=UNITY_WSA --additional-defines=UNITY_WINRT --additional-defines=PLATFORM_WINRT -dotnetprofile=unityaot -verbose --relative-data-path=Data/il2cpp_data --map-file-parser="C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\Il2CppOutputProject\\IL2CPP\MapFileParser\MapFileParser.exe"" exited with code -532462766.

@@ -1,0 +1,1 @@
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\MyFirstProject\MyFirstProject.vcxproj;x64

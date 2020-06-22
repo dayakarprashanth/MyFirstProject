@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>D0199</Machine>
+    <WindowsUser>rdayakar</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>bf9d4c48-da57-4377-8ea0-c412e1f623ac</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\obj\MyFirstProject\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>8E1763BA4E7B950517D3EBCCE07B4958E7AF5829E98E3AAB49F0FFC9C0421998</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-12T17:00:33.630</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\MyFirstProject.exe">
+      <PackagePath>MyFirstProject.exe</PackagePath>
+      <Modified>2020-06-12T17:00:31.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.0f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x64\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2020-06-05T16:55:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.0f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x64\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2020-06-05T16:55:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\MyFirstProject.winmd">
+      <PackagePath>MyFirstProject.winmd</PackagePath>
+      <Modified>2020-06-12T17:00:31.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-06-05T15:57:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2020-06-12T16:41:49.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2020-06-12T16:42:49.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\2.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\web.config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\machine.config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\web.config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\machine.config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.5\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\web.config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2020-06-12T16:41:44.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2020-06-12T16:41:41.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\config">
+      <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2020-06-05T15:57:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2020-06-12T16:41:47.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2020-06-12T16:41:44.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2020-06-12T16:41:45.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2020-06-12T16:41:46.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\level0.resS">
+      <PackagePath>Data\level0.resS</PackagePath>
+      <Modified>2020-06-12T16:41:41.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+      <Modified>2020-06-12T16:41:45.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2020-06-12T16:41:46.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2020-06-12T16:42:49.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\resources.resource">
+      <PackagePath>Data\resources.resource</PackagePath>
+      <Modified>2020-06-12T16:41:45.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\browscap.ini">
+      <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\settings.map</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\settings.map</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\settings.map</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-06-05T15:58:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2020-06-12T16:42:46.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2020-06-12T16:42:03.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2020-06-12T16:42:03.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json">
+      <PackagePath>Data\UnitySubsystems\WindowsMRXRSDK\UnitySubsystemsManifest.json</PackagePath>
+      <Modified>2020-06-05T16:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\WindowsMRXRSDK.dll">
+      <PackagePath>WindowsMRXRSDK.dll</PackagePath>
+      <Modified>2020-06-05T16:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\MyFirstProject\AudioPluginMsHRTF.dll">
+      <PackagePath>AudioPluginMsHRTF.dll</PackagePath>
+      <Modified>2020-06-05T16:05:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2020-06-12T17:00:26.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.4.0f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\x64\Release\WinPixEventRuntime_UAP.dll">
+      <PackagePath>WinPixEventRuntime_UAP.dll</PackagePath>
+      <Modified>2020-06-05T16:55:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Project\Test\MyFirstProject\Test3_MyFirstProject_Final\build\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-06-12T17:00:32.834</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

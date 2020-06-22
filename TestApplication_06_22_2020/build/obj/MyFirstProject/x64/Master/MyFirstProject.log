@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  App.cpp
+  Main.cpp
+  UnityGenerated.cpp
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\MyFirstProject\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': marked as deprecated
+C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\MyFirstProject\App.cpp(26,1): message : Message: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+LINK : fatal error LNK1181: cannot open input file 'C:\Project\Test\MyFirstProject\TestApplication_06_22_2020\build\bin\x64\Master\GameAssembly.lib'
